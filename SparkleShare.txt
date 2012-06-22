@@ -1,3 +1,5 @@
+test
+
 Congratulations, you've successfully created a SparkleShare repository!
 
 Any files you add or change in this folder will be automatically synced to 
